@@ -1,1 +1,1 @@
-this is an evolution of the  notebook i wrote using the wolfram language for my thesis as an undergraduate  to obtain the polarization map of a vector vortex beam through the measure of the stokes parameters of the beam. 
+this is a modified version of the  notebook i wrote using the wolfram language for my thesis as an undergraduate  to obtain the polarization map of a vector vortex beam through the measure of the stokes parameters of the beam. 
